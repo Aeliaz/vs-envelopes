@@ -1,0 +1,11 @@
+{
+    "item-envelope-empty": "Enveloppe (vide)",
+    "item-envelope-unsealed": "Enveloppe",
+    "item-envelope-sealed": "Envellope scellée à la cire",
+    "item-envelope-opened": "Envellope scellée à la cire (ouverte)",
+    "open-envelope": "Ouvrir l'envellope",
+    "open-envelope-confirmation": "Êtes-vous sûr de vouloir desceller cette enveloppe ?",
+    "envelope-hascontents": "L'enveloppe contient une lettre.",
+    "envelope-sealbroken": "Le sceau a été brisé.",
+    "envelope-sealedby": "Scellé par"
+}
